@@ -1,0 +1,5 @@
+pillow
+tabulate
+playsound
+cv2
+numpy
